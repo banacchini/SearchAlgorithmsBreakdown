@@ -3,11 +3,15 @@ This project explores the implementation and empirical analysis of various searc
 
 Pacman Environment source code: [UC Berkeley](https://ai.berkeley.edu/project_overview.html)
 
+![Heatmap of an A* algorithm in a maze](https://github.com/banacchini/SearchAlgorithmsBreakdown/blob/main/cavesManhattan.png)
+
 ### Algorithms Compared:
 - **Depth-First Search (DFS)**
 - **Breadth-First Search (BFS)**
 - **Uniform Cost Search (Dijkstra)**
 - **A* Algorithm (with Euclidean and Manhattan Heuristics)**
+
+![Comparison of Nodes Expanded by investigated algorithms](https://github.com/banacchini/SearchAlgorithmsBreakdown/blob/main/timeComparisson.png)
 
 ### Features:
 - Comparison of algorithm performance across various maze complexities
